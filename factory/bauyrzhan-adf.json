@@ -1,0 +1,9 @@
+{
+	"name": "bauyrzhan-adf",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "99636b61-842d-404f-bf26-e47bc5c80412",
+		"tenantId": "b05c42db-3106-4b95-8e2f-22008d9f1f37"
+	}
+}
